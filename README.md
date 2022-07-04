@@ -12,6 +12,7 @@ FEATURES:-
          3. download only two file to run your program. mai.py and logo.png in one file.
 
 
+NOTE: It is python base application. Reach out for new ideas.
 
 Thank you!
 
